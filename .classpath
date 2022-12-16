@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ketabhome-shopping-cart-admin-panel-master/src/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Java Technology/lib/lib/javax.servlet-api-3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/commons-dbutils-1.4.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/jstl-api.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/mail.jar"/>
+	<classpathentry kind="lib" path="ketabhome-shopping-cart-admin-panel-master/lib/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
